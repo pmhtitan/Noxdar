@@ -1,0 +1,18 @@
+{
+  "name": "noxdar",
+  "version": "1.0.0",
+  "description": "TFG Tienda",
+  "main": "index.js",
+  "dependencies": {
+    "codeigniter": "0.0.0",
+    "composer": "^4.0.0",
+    "php": "0.0.1",
+    "php-serve": "0.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "application/controllers/test.php"
+  },
+  "author": "Pablo Moras Hernando",
+  "license": "ISC"
+}

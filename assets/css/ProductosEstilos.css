@@ -1,0 +1,106 @@
+/* @import url('https://fonts.googleapis.com/css?family=Open+Sans');
+ */
+.contenedorCuerpo
+{
+   /*  margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    font-family: sans-serif;
+    background: #262626; */
+}
+.testimonials
+{
+margin: 200px auto 100px;
+display: grid;
+grid-template-columns: repeat(auto-fit, minmax(350px 1fr));
+grid-gap: 20px;
+}
+
+.testimonials .cardContacto
+{
+    position: relative;
+    width: 350px;
+    margin: 0 auto;
+    background: #333;
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: center;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, .5);
+    overflow:  hidden;
+}
+.paddingMenuTop{
+    padding-top: 100px;
+}
+.testimonials .cardContacto .layerContacto
+{
+   /*  position: absolute;
+    top: calc(100% - 2px);
+    width: 100%;
+    height: 100%;
+    left: 0;
+    background: linear-gradient(#03a9f4, #e91ee3);
+    z-index: 1;
+    transition: 0.5s; */
+
+    position: absolute;
+    top: calc(100% - 2px);
+    width: 100%;
+    height: 100%;
+    left: 0;
+    background: linear-gradient(#101010, #082c56);
+    z-index: 1;
+    transition: 0.5s;
+}
+.testimonials .cardContacto:hover .layerContacto
+{
+    top:0;
+}
+.testimonials .cardContacto .contentContacto
+{
+    position: relative;
+    z-index: 2;
+}
+.testimonials .cardContacto .contentContacto p
+{
+    position: relative;
+    font-size: 18px;
+    line-height: 24px;
+    color: #fff;
+}
+.testimonials .cardContacto .contentContacto .imageContacto
+{
+    position: relative;
+    width: 34%;
+    height: 30%;
+    margin: 0 auto;
+    border-radius: hidden;
+    border: 1px solid #fff;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, .2);
+}
+.testimonials .cardContacto .contentContacto .detailsContacto h2
+{
+    padding-top: 10px;
+    position: relative;
+    font-size: 18px;
+    color: #fff;
+}
+.testimonials .cardContacto .contentContacto .details h2 span 
+{
+position: relative;
+color: #03a9f4;
+font-size: 14px;
+transition: 0.5s;
+}
+.testimonials .cardContacto:hover .contentContacto .detailsContacto h2 span 
+{
+    color: #00dbeb;
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (max-width: 768px) {
+
+    .paddingMenuTop{
+        padding-top: 30px;
+    }
+}

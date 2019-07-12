@@ -1,0 +1,164 @@
+.socialMedia{
+    margin: 0;
+    padding: 0;
+
+}
+.socialMedia ul{
+    display: flex;
+    position: absolute;
+    transform: rotate(-50%,-50%);
+
+}
+.socialMedia ul li{
+     list-style: none;
+
+}
+.socialMedia ul li a{
+    width: 80px;
+    height: 80px;
+    background: #fff;
+    text-align: center;
+    line-height: 80px;
+    font-size: 35px;
+    margin:  0 10px;
+    display: block;
+    border-radius: 50%;
+    position: relative;
+    overflow: hidden;
+    border: 3px solid #fff;
+    z-index: 1;
+}
+.socialMedia ul li a .fa{
+    position: relative;
+    color: #262626;
+    transition: .5s;
+    z-index: 3;
+}
+.socialMedia ul li a:hover .fa{
+
+    color: #fff;
+    transform: rotateY(360deg);
+
+}
+.socialMedia ul li a:before{
+    content: '';
+    position: absolute;
+    top: 100%;
+    left:0;
+    width: 100%;
+    height: 100%;
+    background: #f00;
+    transition: .5s;
+}
+.socialMedia ul li a:hover:before{
+    top:0;
+    z-index: 2;
+}
+.socialMedia ul li:nth-child(1) a:before{
+    background: #007bb5;
+}
+.socialMedia ul li:nth-child(2) a:before{
+    background:  #dd4b39;
+}
+
+
+/* MEDIA QUERIES */
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+
+    .socialMedia ul{
+        display: flex;
+        position: absolute;
+        top: 82%;
+        left:15%;
+        transform: rotate(-50%,-50%);
+    
+    }
+} 
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 700px) {
+
+    .socialMedia ul{
+        display: flex;
+        position: absolute;
+        top: 80%;
+        left:15%;
+        transform: rotate(-50%,-50%);
+    
+    }
+} 
+
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+ 
+} 
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (max-width: 768px) {
+    .socialMedia ul{
+        display: flex;
+        position: absolute;
+        top: 75%;
+        left:15%;
+        transform: rotate(-50%,-50%);
+    
+    }
+} 
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    .socialMedia ul{
+        display: flex;
+        position: absolute;
+        top: 70%;
+        left:30%;
+        transform: rotate(-50%,-50%);
+    
+    }
+} 
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+    .socialMedia ul{
+        display: flex;
+        position: absolute;
+        top: 67%;
+        left:43%;
+        transform: rotate(-50%,-50%);
+    
+    }
+}
+
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+    .socialMedia ul{
+        display: flex;
+        position: absolute;
+        top: 83%;
+        left:15%;
+        transform: rotate(-50%,-50%);
+    
+    }
+}
+
+/* ----------- iPhone 5, 5S, 5C and 5SE ----------- */
+
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 568px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+    .socialMedia ul{
+        display: flex;
+        position: absolute;
+        top: 80%;
+        left:15%;
+        transform: rotate(-50%,-50%);
+    
+    }
+
+}

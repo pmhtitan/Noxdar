@@ -1,0 +1,168 @@
+Jul  8 12:47:31 10.71.57.0 u95224446 Connection from 10.71.57.0 port 45644 on 82.165.80.187 port 22
+Jul  8 12:47:36 10.71.57.0 u95224446 Failed password for u95224446 from 10.71.57.0 port 45644 ssh2
+Jul  8 12:47:51 10.71.57.0 u95224446 Connection from 10.71.57.0 port 14732 on 82.165.80.187 port 22
+Jul  8 12:47:51 10.71.57.0 u95224446 Accepted password for u95224446 from 10.71.57.0 port 14732 ssh2
+Jul  8 12:47:52 10.71.57.0 u95224446 Starting session: subsystem 'sftp' for u95224446 from 10.71.57.0 port 14732
+Jul  8 12:47:52 10.71.57.0 u95224446 session opened for local user u95224446 from [10.71.57.0]
+Jul  8 14:11:23 10.71.57.0 u95224446 Connection from 10.71.57.0 port 64728 on 82.165.80.187 port 22
+Jul  8 14:11:23 10.71.57.0 u95224446 Accepted password for u95224446 from 10.71.57.0 port 64728 ssh2
+Jul  8 14:11:23 10.71.57.0 u95224446 Starting session: subsystem 'sftp' for u95224446 from 10.71.57.0 port 64728
+Jul  8 14:11:23 10.71.57.0 u95224446 session opened for local user u95224446 from [10.71.57.0]
+Jul  8 14:11:24 10.71.57.0 u95224446 open "/favicon.png" flags READ mode 0666
+Jul  8 14:11:24 10.71.57.0 u95224446 close "/favicon.png" bytes read 4724 written 0
+Jul  8 14:11:24 10.71.57.0 u95224446 [10.71.57.0|get|0|4724|0|0|0|2f66617669636f6e2e706e67|]
+Jul  8 14:12:24 10.71.57.0 u95224446 session closed for local user u95224446 from [10.71.57.0]
+Jul  8 14:12:24 10.71.57.0 u95224446 Connection closed by 10.71.57.0
+Jul  8 15:07:54 10.71.57.0 u95224446 session closed for local user u95224446 from [10.71.57.0]
+Jul  8 15:07:54 10.71.57.0 u95224446 Connection closed by 10.71.57.0
+Jul 10 10:13:48 10.71.57.0 u95224446 Connection from 10.71.57.0 port 30378 on 82.165.80.187 port 22
+Jul 10 10:13:52 10.71.57.0 u95224446 Failed password for u95224446 from 10.71.57.0 port 30378 ssh2
+Jul 12 08:36:14 10.71.57.0 u95224446 Connection from 10.71.57.0 port 38060 on 82.165.80.187 port 22
+Jul 12 08:36:16 10.71.57.0 u95224446 Accepted password for u95224446 from 10.71.57.0 port 38060 ssh2
+Jul 12 08:36:16 10.71.57.0 u95224446 Starting session: subsystem 'sftp' for u95224446 from 10.71.57.0 port 38060
+Jul 12 08:36:16 10.71.57.0 u95224446 session opened for local user u95224446 from [10.71.57.0]
+Jul 12 08:39:09 10.71.57.0 u95224446 Connection from 10.71.57.0 port 44394 on 82.165.80.187 port 22
+Jul 12 08:39:10 10.71.57.0 u95224446 Accepted password for u95224446 from 10.71.57.0 port 44394 ssh2
+Jul 12 08:39:10 10.71.57.0 u95224446 Starting session: subsystem 'sftp' for u95224446 from 10.71.57.0 port 44394
+Jul 12 08:39:10 10.71.57.0 u95224446 session opened for local user u95224446 from [10.71.57.0]
+Jul 12 08:39:10 10.71.57.0 u95224446 open "/sitemap.xml" flags READ mode 0666
+Jul 12 08:39:10 10.71.57.0 u95224446 close "/sitemap.xml" bytes read 438 written 0
+Jul 12 08:39:10 10.71.57.0 u95224446 [10.71.57.0|get|0|438|0|0|0|2f736974656d61702e786d6c|]
+Jul 12 08:40:11 10.71.57.0 u95224446 session closed for local user u95224446 from [10.71.57.0]
+Jul 12 08:40:11 10.71.57.0 u95224446 Connection closed by 10.71.57.0
+Jul 12 08:40:28 10.71.57.0 u95224446 Connection from 10.71.57.0 port 12838 on 82.165.80.187 port 22
+Jul 12 08:40:29 10.71.57.0 u95224446 Accepted password for u95224446 from 10.71.57.0 port 12838 ssh2
+Jul 12 08:40:29 10.71.57.0 u95224446 Starting session: subsystem 'sftp' for u95224446 from 10.71.57.0 port 12838
+Jul 12 08:40:29 10.71.57.0 u95224446 session opened for local user u95224446 from [10.71.57.0]
+Jul 12 08:40:29 10.71.57.0 u95224446 open "/index.php" flags READ mode 0666
+Jul 12 08:40:29 10.71.57.0 u95224446 close "/index.php" bytes read 10253 written 0
+Jul 12 08:40:29 10.71.57.0 u95224446 [10.71.57.0|get|0|10253|0|0|0|2f696e6465782e706870|]
+Jul 12 08:41:29 10.71.57.0 u95224446 session closed for local user u95224446 from [10.71.57.0]
+Jul 12 08:41:29 10.71.57.0 u95224446 Connection closed by 10.71.57.0
+Jul 12 10:01:12 10.71.57.0 u95224446 sent status No such file
+Jul 12 10:01:11 10.71.57.0 u95224446 Connection from 10.71.57.0 port 64274 on 82.165.80.187 port 22
+Jul 12 10:01:12 10.71.57.0 u95224446 Accepted password for u95224446 from 10.71.57.0 port 64274 ssh2
+Jul 12 10:01:11 10.71.57.0 u95224446 Connection from 10.71.57.0 port 64276 on 82.165.80.187 port 22
+Jul 12 10:01:12 10.71.57.0 u95224446 Accepted password for u95224446 from 10.71.57.0 port 64276 ssh2
+Jul 12 10:01:12 10.71.57.0 u95224446 Starting session: subsystem 'sftp' for u95224446 from 10.71.57.0 port 64274
+Jul 12 10:01:12 10.71.57.0 u95224446 session opened for local user u95224446 from [10.71.57.0]
+Jul 12 10:01:12 10.71.57.0 u95224446 Starting session: subsystem 'sftp' for u95224446 from 10.71.57.0 port 64276
+Jul 12 10:01:12 10.71.57.0 u95224446 session opened for local user u95224446 from [10.71.57.0]
+Jul 12 10:01:12 10.71.57.0 u95224446 open "/googleca1d20d8bae477e1.html" flags READ mode 0666
+Jul 12 10:01:12 10.71.57.0 u95224446 open "/robots.txt" flags READ mode 0666
+Jul 12 10:01:12 10.71.57.0 u95224446 close "/googleca1d20d8bae477e1.html" bytes read 53 written 0
+Jul 12 10:01:12 10.71.57.0 u95224446 [10.71.57.0|get|0|53|0|0|0|2f676f6f676c65636131643230643862616534373765312e68746d6c|]
+Jul 12 10:01:12 10.71.57.0 u95224446 close "/robots.txt" bytes read 176 written 0
+Jul 12 10:01:12 10.71.57.0 u95224446 [10.71.57.0|get|0|176|0|0|0|2f726f626f74732e747874|]
+Jul 12 10:01:12 10.71.57.0 u95224446 open "/sitemap.xml" flags READ mode 0666
+Jul 12 10:01:13 10.71.57.0 u95224446 open "/googledd3af5424bbfd52b.html" flags READ mode 0666
+Jul 12 10:01:13 10.71.57.0 u95224446 close "/sitemap.xml" bytes read 438 written 0
+Jul 12 10:01:13 10.71.57.0 u95224446 [10.71.57.0|get|1|438|0|0|0|2f736974656d61702e786d6c|]
+Jul 12 10:01:13 10.71.57.0 u95224446 close "/googledd3af5424bbfd52b.html" bytes read 53 written 0
+Jul 12 10:01:13 10.71.57.0 u95224446 [10.71.57.0|get|0|53|0|0|0|2f676f6f676c65646433616635343234626266643532622e68746d6c|]
+Jul 12 10:01:13 10.71.57.0 u95224446 open "/TIMELAPSE4.mp4" flags READ mode 0666
+Jul 12 10:01:13 10.71.57.0 u95224446 open "/TIMELAPSE3.mp4" flags READ mode 0666
+Jul 12 10:01:15 10.71.57.0 u95224446 close "/TIMELAPSE4.mp4" bytes read 8126347 written 0
+Jul 12 10:01:15 10.71.57.0 u95224446 [10.71.57.0|get|2|8126347|0|0|0|2f54494d454c41505345342e6d7034|]
+Jul 12 10:01:15 10.71.57.0 u95224446 open "/TIMELAPSE2.mp4" flags READ mode 0666
+Jul 12 10:01:17 10.71.57.0 u95224446 close "/TIMELAPSE3.mp4" bytes read 3546490 written 0
+Jul 12 10:01:17 10.71.57.0 u95224446 [10.71.57.0|get|4|3546490|0|0|0|2f54494d454c41505345332e6d7034|]
+Jul 12 10:01:17 10.71.57.0 u95224446 close "/TIMELAPSE2.mp4" bytes read 5311088 written 0
+Jul 12 10:01:17 10.71.57.0 u95224446 [10.71.57.0|get|2|5311088|0|0|0|2f54494d454c41505345322e6d7034|]
+Jul 12 10:01:17 10.71.57.0 u95224446 open "/AndromSpin.mp4" flags READ mode 0666
+Jul 12 10:01:17 10.71.57.0 u95224446 open "/TIMELAPSE.mp4" flags READ mode 0666
+Jul 12 10:01:18 10.71.57.0 u95224446 close "/TIMELAPSE.mp4" bytes read 1650412 written 0
+Jul 12 10:01:18 10.71.57.0 u95224446 [10.71.57.0|get|1|1650412|0|0|0|2f54494d454c415053452e6d7034|]
+Jul 12 10:01:19 10.71.57.0 u95224446 open "/indexCodeIgniter.html" flags READ mode 0666
+Jul 12 10:01:19 10.71.57.0 u95224446 close "/indexCodeIgniter.html" bytes read 637 written 0
+Jul 12 10:01:19 10.71.57.0 u95224446 [10.71.57.0|get|0|637|0|0|0|2f696e646578436f646549676e697465722e68746d6c|]
+Jul 12 10:01:19 10.71.57.0 u95224446 open "/readme.rst" flags READ mode 0666
+Jul 12 10:01:19 10.71.57.0 u95224446 close "/AndromSpin.mp4" bytes read 6623198 written 0
+Jul 12 10:01:19 10.71.57.0 u95224446 [10.71.57.0|get|2|6623198|0|0|0|2f416e64726f6d5370696e2e6d7034|]
+Jul 12 10:01:19 10.71.57.0 u95224446 open "/package.json" flags READ mode 0666
+Jul 12 10:01:20 10.71.57.0 u95224446 close "/package.json" bytes read 370 written 0
+Jul 12 10:01:20 10.71.57.0 u95224446 [10.71.57.0|get|1|370|0|0|0|2f7061636b6167652e6a736f6e|]
+Jul 12 10:01:20 10.71.57.0 u95224446 close "/readme.rst" bytes read 2343 written 0
+Jul 12 10:01:20 10.71.57.0 u95224446 [10.71.57.0|get|1|2343|0|0|0|2f726561646d652e727374|]
+Jul 12 10:01:20 10.71.57.0 u95224446 open "/package-lock.json" flags READ mode 0666
+Jul 12 10:01:20 10.71.57.0 u95224446 open "/license.txt" flags READ mode 0666
+Jul 12 10:01:20 10.71.57.0 u95224446 close "/package-lock.json" bytes read 2732 written 0
+Jul 12 10:01:20 10.71.57.0 u95224446 [10.71.57.0|get|0|2732|0|0|0|2f7061636b6167652d6c6f636b2e6a736f6e|]
+Jul 12 10:01:20 10.71.57.0 u95224446 close "/license.txt" bytes read 1114 written 0
+Jul 12 10:01:20 10.71.57.0 u95224446 [10.71.57.0|get|0|1114|0|0|0|2f6c6963656e73652e747874|]
+Jul 12 10:01:20 10.71.57.0 u95224446 open "/index.php" flags READ mode 0666
+Jul 12 10:01:20 10.71.57.0 u95224446 open "/index.js" flags READ mode 0666
+Jul 12 10:01:20 10.71.57.0 u95224446 close "/index.php" bytes read 10253 written 0
+Jul 12 10:01:20 10.71.57.0 u95224446 [10.71.57.0|get|0|10253|0|0|0|2f696e6465782e706870|]
+Jul 12 10:01:20 10.71.57.0 u95224446 close "/index.js" bytes read 51 written 0
+Jul 12 10:01:20 10.71.57.0 u95224446 [10.71.57.0|get|0|51|0|0|0|2f696e6465782e6a73|]
+Jul 12 10:01:20 10.71.57.0 u95224446 open "/contributing.md" flags READ mode 0666
+Jul 12 10:01:20 10.71.57.0 u95224446 open "/composer.json" flags READ mode 0666
+Jul 12 10:01:20 10.71.57.0 u95224446 close "/composer.json" bytes read 594 written 0
+Jul 12 10:01:20 10.71.57.0 u95224446 [10.71.57.0|get|0|594|0|0|0|2f636f6d706f7365722e6a736f6e|]
+Jul 12 10:01:20 10.71.57.0 u95224446 open "/.gitignore" flags READ mode 0666
+Jul 12 10:01:20 10.71.57.0 u95224446 close "/contributing.md" bytes read 6504 written 0
+Jul 12 10:01:20 10.71.57.0 u95224446 [10.71.57.0|get|0|6504|0|0|0|2f636f6e747269627574696e672e6d64|]
+Jul 12 10:01:21 10.71.57.0 u95224446 open "/.editorconfig" flags READ mode 0666
+Jul 12 10:01:21 10.71.57.0 u95224446 close "/.editorconfig" bytes read 302 written 0
+Jul 12 10:01:21 10.71.57.0 u95224446 [10.71.57.0|get|0|302|0|0|0|2f2e656469746f72636f6e666967|]
+Jul 12 10:01:21 10.71.57.0 u95224446 open "/favicon2.ico" flags READ mode 0666
+Jul 12 10:01:21 10.71.57.0 u95224446 close "/.gitignore" bytes read 503 written 0
+Jul 12 10:01:21 10.71.57.0 u95224446 [10.71.57.0|get|1|503|0|0|0|2f2e67697469676e6f7265|]
+Jul 12 10:01:21 10.71.57.0 u95224446 close "/favicon2.ico" bytes read 409 written 0
+Jul 12 10:01:21 10.71.57.0 u95224446 [10.71.57.0|get|0|409|0|0|0|2f66617669636f6e322e69636f|]
+Jul 12 10:01:21 10.71.57.0 u95224446 open "/favicon.png" flags READ mode 0666
+Jul 12 10:01:21 10.71.57.0 u95224446 open "/favicon.ico" flags READ mode 0666
+Jul 12 10:01:21 10.71.57.0 u95224446 close "/favicon.png" bytes read 4724 written 0
+Jul 12 10:01:21 10.71.57.0 u95224446 [10.71.57.0|get|0|4724|0|0|0|2f66617669636f6e2e706e67|]
+Jul 12 10:01:21 10.71.57.0 u95224446 close "/favicon.ico" bytes read 119742 written 0
+Jul 12 10:01:21 10.71.57.0 u95224446 [10.71.57.0|get|0|119742|0|0|0|2f66617669636f6e2e69636f|]
+Jul 12 10:01:22 10.71.57.0 u95224446 open "/logs/access.log.27.7.gz" flags READ mode 0666
+Jul 12 10:01:22 10.71.57.0 u95224446 open "/logs/access.log.27.5.gz" flags READ mode 0666
+Jul 12 10:01:22 10.71.57.0 u95224446 close "/logs/access.log.27.7.gz" bytes read 712 written 0
+Jul 12 10:01:22 10.71.57.0 u95224446 [10.71.57.0|get|0|712|0|0|0|2f6c6f67732f6163636573732e6c6f672e32372e372e677a|]
+Jul 12 10:01:22 10.71.57.0 u95224446 close "/logs/access.log.27.5.gz" bytes read 892 written 0
+Jul 12 10:01:22 10.71.57.0 u95224446 [10.71.57.0|get|0|892|0|0|0|2f6c6f67732f6163636573732e6c6f672e32372e352e677a|]
+Jul 12 10:01:22 10.71.57.0 u95224446 open "/logs/access.log.27.2.gz" flags READ mode 0666
+Jul 12 10:01:22 10.71.57.0 u95224446 open "/logs/dav.log.27.2.gz" flags READ mode 0666
+Jul 12 10:01:22 10.71.57.0 u95224446 close "/logs/access.log.27.2.gz" bytes read 851 written 0
+Jul 12 10:01:22 10.71.57.0 u95224446 [10.71.57.0|get|0|851|0|0|0|2f6c6f67732f6163636573732e6c6f672e32372e322e677a|]
+Jul 12 10:01:22 10.71.57.0 u95224446 close "/logs/dav.log.27.2.gz" bytes read 170 written 0
+Jul 12 10:01:22 10.71.57.0 u95224446 [10.71.57.0|get|0|170|0|0|0|2f6c6f67732f6461762e6c6f672e32372e322e677a|]
+Jul 12 10:01:22 10.71.57.0 u95224446 open "/logs/access.log.27.1.gz" flags READ mode 0666
+Jul 12 10:01:22 10.71.57.0 u95224446 open "/logs/dav.log.23.gz" flags READ mode 0666
+Jul 12 10:01:22 10.71.57.0 u95224446 close "/logs/access.log.27.1.gz" bytes read 1161 written 0
+Jul 12 10:01:22 10.71.57.0 u95224446 [10.71.57.0|get|0|1161|0|0|0|2f6c6f67732f6163636573732e6c6f672e32372e312e677a|]
+Jul 12 10:01:22 10.71.57.0 u95224446 close "/logs/dav.log.23.gz" bytes read 171 written 0
+Jul 12 10:01:22 10.71.57.0 u95224446 [10.71.57.0|get|0|171|0|0|0|2f6c6f67732f6461762e6c6f672e32332e677a|]
+Jul 12 10:01:22 10.71.57.0 u95224446 open "/logs/dav.log.21.gz" flags READ mode 0666
+Jul 12 10:01:22 10.71.57.0 u95224446 open "/logs/access.log.28.4.gz" flags READ mode 0666
+Jul 12 10:01:22 10.71.57.0 u95224446 close "/logs/dav.log.21.gz" bytes read 171 written 0
+Jul 12 10:01:22 10.71.57.0 u95224446 [10.71.57.0|get|0|171|0|0|0|2f6c6f67732f6461762e6c6f672e32312e677a|]
+Jul 12 10:01:22 10.71.57.0 u95224446 close "/logs/access.log.28.4.gz" bytes read 484 written 0
+Jul 12 10:01:22 10.71.57.0 u95224446 [10.71.57.0|get|0|484|0|0|0|2f6c6f67732f6163636573732e6c6f672e32382e342e677a|]
+Jul 12 10:01:22 10.71.57.0 u95224446 open "/logs/access.log.28.2.gz" flags READ mode 0666
+Jul 12 10:01:22 10.71.57.0 u95224446 open "/logs/access.log.27.6.gz" flags READ mode 0666
+Jul 12 10:01:23 10.71.57.0 u95224446 close "/logs/access.log.28.2.gz" bytes read 509 written 0
+Jul 12 10:01:23 10.71.57.0 u95224446 [10.71.57.0|get|1|509|0|0|0|2f6c6f67732f6163636573732e6c6f672e32382e322e677a|]
+Jul 12 10:01:23 10.71.57.0 u95224446 close "/logs/access.log.27.6.gz" bytes read 750 written 0
+Jul 12 10:01:23 10.71.57.0 u95224446 [10.71.57.0|get|1|750|0|0|0|2f6c6f67732f6163636573732e6c6f672e32372e362e677a|]
+Jul 12 10:01:23 10.71.57.0 u95224446 open "/logs/access.log.25.gz" flags READ mode 0666
+Jul 12 10:01:23 10.71.57.0 u95224446 open "/logs/access.log.20.gz" flags READ mode 0666
+Jul 12 10:01:23 10.71.57.0 u95224446 close "/logs/access.log.25.gz" bytes read 7306 written 0
+Jul 12 10:01:23 10.71.57.0 u95224446 [10.71.57.0|get|0|7306|0|0|0|2f6c6f67732f6163636573732e6c6f672e32352e677a|]
+Jul 12 10:01:23 10.71.57.0 u95224446 close "/logs/access.log.20.gz" bytes read 3556 written 0
+Jul 12 10:01:23 10.71.57.0 u95224446 [10.71.57.0|get|0|3556|0|0|0|2f6c6f67732f6163636573732e6c6f672e32302e677a|]
+Jul 12 10:01:23 10.71.57.0 u95224446 open "/logs/dav.log.28.4.gz" flags READ mode 0666
+Jul 12 10:01:23 10.71.57.0 u95224446 open "/logs/access.log.28.3.gz" flags READ mode 0666
+Jul 12 10:01:23 10.71.57.0 u95224446 close "/logs/dav.log.28.4.gz" bytes read 184 written 0
+Jul 12 10:01:23 10.71.57.0 u95224446 [10.71.57.0|get|0|184|0|0|0|2f6c6f67732f6461762e6c6f672e32382e342e677a|]
+Jul 12 10:01:23 10.71.57.0 u95224446 close "/logs/access.log.28.3.gz" bytes read 1004 written 0
+Jul 12 10:01:23 10.71.57.0 u95224446 [10.71.57.0|get|0|1004|0|0|0|2f6c6f67732f6163636573732e6c6f672e32382e332e677a|]
+Jul 12 10:01:23 10.71.57.0 u95224446 open "/logs/access.log.28.1.gz" flags READ mode 0666
+Jul 12 10:01:23 10.71.57.0 u95224446 open "/logs/dav.log.28.1.gz" flags READ mode 0666
+Jul 12 10:01:23 10.71.57.0 u95224446 close "/logs/access.log.28.1.gz" bytes read 1509 written 0
+Jul 12 10:01:23 10.71.57.0 u95224446 [10.71.57.0|get|0|1509|0|0|0|2f6c6f67732f6163636573732e6c6f672e32382e312e677a|]
+Jul 12 10:01:23 10.71.57.0 u95224446 close "/logs/dav.log.28.1.gz" bytes read 184 written 0
+Jul 12 10:01:23 10.71.57.0 u95224446 [10.71.57.0|get|0|184|0|0|0|2f6c6f67732f6461762e6c6f672e32382e312e677a|]
+Jul 12 10:01:23 10.71.57.0 u95224446 open "/logs/sftp.log" flags READ mode 0666
